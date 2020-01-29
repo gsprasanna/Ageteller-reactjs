@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.App-Content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10%;
+}
+
+.partyPopper {
+  width: 200px;
+  height: 200px;
+}
